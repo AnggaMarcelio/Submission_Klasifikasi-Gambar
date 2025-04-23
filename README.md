@@ -1,6 +1,7 @@
 # Submission-Klasifikasi-Gambar
 Proyek ini merupakan implementasi model klasifikasi gambar sampah menggunakan arsitektur MobileNetV2. Model ini dilatih untuk mengenali berbagai jenis sampah seperti paper, glass, cardboard, metal, plastic, trash, dan lainnya. Dataset berasal dari folder Google Drive yang telah diklasifikasikan berdasarkan label folder.
-Dataset dapat diakse pada link berikut ini: https://www.kaggle.com/datasets/mostafaabla/garbage-classification
+
+Dataset dapat diakses pada link berikut ini: https://www.kaggle.com/datasets/mostafaabla/garbage-classification
 
 ## 1. File Structures
 ```
