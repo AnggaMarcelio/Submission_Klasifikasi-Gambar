@@ -14,14 +14,12 @@ Dataset dapat diakses pada link berikut ini: https://www.kaggle.com/datasets/mos
 │       │   └── variables.index
 │       ├── fingerprint.pb
 │       └── saved_model.pb
+    └── garbage_classifier.keras
 ├── tfjs_model
 │   ├── model.json
-│   ├── group1-shard1of6.bin
-│   ├── group1-shard2of6.bin
-│   ├── group1-shard3of6.bin
-│   ├── group1-shard4of6.bin
-│   ├── group1-shard5of6.bin
-│   └── group1-shard6of6.bin
+│   ├── group1-shard1of3.bin
+│   ├── group1-shard2of3.bin
+│   ├── group1-shard3of3.bin
 └── tflite
 │       ├── model.tflite
 │       └── label.txt
